@@ -1,2 +1,2 @@
-# yubases
-Bu Tool İle İstediğiniz kelimeleri sese dönüştürebilirsiniz.
+# Yuba DDoS 10 billion Shell upload
+10 bin shelli DDoS
